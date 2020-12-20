@@ -3,7 +3,7 @@
 const app = function () {
   // https://script.google.com/macros/s/AKfycbwzFYIniU3IOaIBW6e54UQmxe3pkBQOpXI8idwn_jipA-hU01k/exec
   const NEW_LEAD_API = "https://script.google.com/macros/s/AKfycbzcx64WHUwyudNRAar6UbLgdPunlGnc2nMPzoBgmSXAgYVLW18/exec?key=abc&action=newlead&callback=?";
-  const API_BASE = 'https://script.google.com/macros/s/AKfycbw3VjGCatvBNC6Htb6i_jkLDpiS5_BqmeBmfN8HRRI/exec';
+  const API_BASE = 'https://script.google.com/macros/s/AKfycbzcx64WHUwyudNRAar6UbLgdPunlGnc2nMPzoBgmSXAgYVLW18/exec';
   const API_KEY = 'abc';
   const CATEGORIES = ['general', 'financial', 'technology'];
 
