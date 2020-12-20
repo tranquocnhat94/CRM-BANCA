@@ -1,8 +1,8 @@
 
 
 const app = function () {
-  const API_BASE = 'https://script.google.com/macros/s/AKfycbwzFYIniU3IOaIBW6e54UQmxe3pkBQOpXI8idwn_jipA-hU01k/exec';
-  const API_KEY = 'abc';
+  const API_BASE = 'https://script.google.com/macros/s/1NhIgmjBwTFeqM_faWUrBhlLtWsgjPQDfwH9-xRe1SFo/exec';
+  const API_KEY = 'MB3';
   
   const state = {
     allLeadTable: {
