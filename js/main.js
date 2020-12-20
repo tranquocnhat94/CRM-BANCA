@@ -2,9 +2,9 @@
 
 const app = function () {
   // https://script.google.com/macros/s/AKfycbwzFYIniU3IOaIBW6e54UQmxe3pkBQOpXI8idwn_jipA-hU01k/exec
-  const NEW_LEAD_API = "https://script.google.com/macros/s/AKfycbwzFYIniU3IOaIBW6e54UQmxe3pkBQOpXI8idwn_jipA-hU01k/exec?key=abc&action=newlead&callback=?";
-  const API_BASE = 'https://script.google.com/macros/s/AKfycby-jPqmlNjRwcemO1v0k6UX9uuD2CLXdpcQQFKoc85g7hLSGI1R/exec';
-  const API_KEY = 'abc';
+  const NEW_LEAD_API = "https://script.google.com/macros/s/AKfycbxN8BvJd7d0DnD8EOi3_08wCO9YS4xEk-yRpBMSOsM/exec?key=MB3&action=newlead&callback=?";
+  const API_BASE = 'https://script.google.com/macros/s/AKfycbxN8BvJd7d0DnD8EOi3_08wCO9YS4xEk-yRpBMSOsM/exec';
+  const API_KEY = 'MB3';
   const CATEGORIES = ['general', 'financial', 'technology'];
 
   const state = {activePage: 1, activeCategory: null};
