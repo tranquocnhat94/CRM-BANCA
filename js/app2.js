@@ -1,7 +1,7 @@
 
 
 const app = function () {
-  const API_BASE = 'https://script.google.com/macros/s/AKfycbw3VjGCatvBNC6Htb6i_jkLDpiS5_BqmeBmfN8HRRI/exec';
+  const API_BASE = 'https://script.google.com/macros/s/AKfycbzcx64WHUwyudNRAar6UbLgdPunlGnc2nMPzoBgmSXAgYVLW18/dev';
   const API_KEY = 'abc';
   const RESULTS_PER_PAGE = 5;
   
