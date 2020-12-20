@@ -2,7 +2,7 @@
 
 const app = function () {
   // https://script.google.com/macros/s/AKfycbwzFYIniU3IOaIBW6e54UQmxe3pkBQOpXI8idwn_jipA-hU01k/exec
-  const NEW_LEAD_API = "https://script.googleusercontent.com/macros/echo?user_content_key=gMz_KDGC9zW677swvW-s1D9czqw-udn0gm4YNuzTR628msRoDH0gmgsDmolCvR8_xKqCrozC4WvBf8SbbvSfXIk28MeUpfteOJmA1Yb3SEsKFZqtv3DaNYcMrmhZHmUMWojr9NvTBuBLhyHCd5hHa_hzT0k81Aza-mwz0jqtYMAtYx_V3dWXX697SjRl8MY65bN3QSDrBKSnEBs1XujqOaKlGRCZuSE2K4210zkRCFSdR2eYUU4Dpg1XrW-QxtgtDFVRKL6vOAj2FgEMyTVmRw&lib=M9IfXFM0YKTpVfJ6qA8CxbbIs2nCFLnrS";
+  const NEW_LEAD_API = "https://script.google.com/macros/s/AKfycbw3VjGCatvBNC6Htb6i_jkLDpiS5_BqmeBmfN8HRRI/dev?key=abc&action=newlead&callback=?";
   const API_BASE = 'https://script.google.com/macros/s/AKfycbw3VjGCatvBNC6Htb6i_jkLDpiS5_BqmeBmfN8HRRI/dev';
   const API_KEY = 'abc';
   const CATEGORIES = ['general', 'financial', 'technology'];
